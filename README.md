@@ -4,7 +4,5 @@
         <ul>
             <li>Balltze Network</li>
         </ul>
-
-    </div>
 </foreignObject>
 </svg>
