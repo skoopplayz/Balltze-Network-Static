@@ -6,3 +6,4 @@
         </ul>
 </foreignObject>
 </svg>
+[![Join us on Discord](https://invidget.switchblade.xyz/sWPHCdxCPU?theme=dark)](https://discord.gg/sWPHCdxCPU)
