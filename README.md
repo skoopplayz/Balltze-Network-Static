@@ -1,5 +1,5 @@
 # Balltze Unblocker
-##Run Guide:
+## Key Features:
 Apple
 
 <img src="Balltze.gif"></img></a>
